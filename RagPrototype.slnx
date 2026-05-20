@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="RagPrototype.API/RagPrototype.Api.csproj" />
+  <Project Path="RagPrototype.Application/RagPrototype.Application.csproj" Id="558203e4-ebc0-4dc3-a10b-33d2c2a6da16" />
+  <Project Path="RagPrototype.Domain/RagPrototype.Domain.csproj" Id="8e0635b3-268d-44e9-80d8-7f804b96f2d7" />
+  <Project Path="RagPrototype.Infrastructure/RagPrototype.Infrastructure.csproj" Id="ed866a7f-bc4b-461b-9361-2c9ca714518c" />
+  <Project Path="RagPrototypeTests.Unit/RagPrototype.Tests.Unit.csproj" />
+</Solution>
